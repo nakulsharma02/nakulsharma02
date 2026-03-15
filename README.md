@@ -1,22 +1,24 @@
-🚀 Hello, I'm Nakul Sharma
+# 💫 About Me:
+🚀 Hello, I'm Nakul Sharma<br><br>I am an engineering student and an aspiring AI Engineer passionate about building intelligent systems and solving real-world problems using technology.<br><br>💡 Currently Learning<br><br>Machine Learning<br>Artificial Intelligence<br>Data Science Concepts<br>FastAPI for backend development<br>Data Structures & Algorithms<br>🛠 Technologies & Tools<br><br>Python<br>FastAPI<br>NumPy, Pandas<br>Scikit-learn<br>Git & GitHub<br>🎯 Goal To become a highly skilled AI Engineer and contribute to impactful AI-driven solutions.<br><br>I believe in learning by building projects and continuously improving my skills.
 
-I am an engineering student and an aspiring AI Engineer passionate about building intelligent systems and solving real-world problems using technology.
 
-💡 Currently Learning
-- Machine Learning
-- Artificial Intelligence
-- Data Science Concepts
-- FastAPI for backend development
-- Data Structures & Algorithms
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/135086306851055623) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nakul__sharmaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nakul-sharma-782576356) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nakul Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nakulsharmavats123@gmail.com) 
 
-🛠 Technologies & Tools
-- Python
-- FastAPI
-- NumPy, Pandas
-- Scikit-learn
-- Git & GitHub
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nakulsharma02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nakulsharma02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nakulsharma02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎯 Goal
-To become a highly skilled AI Engineer and contribute to impactful AI-driven solutions.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I believe in learning by building projects and continuously improving my skills.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nakulsharma02&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nakulsharma02&icon=6&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
